@@ -1,0 +1,9 @@
+c:\users\arthur c. baroi\documents\visual studio 2013\Projects\FinancialCalculations\FinancialCalculations\bin\Debug\FinancialCalculations.exe.config
+c:\users\arthur c. baroi\documents\visual studio 2013\Projects\FinancialCalculations\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+c:\users\arthur c. baroi\documents\visual studio 2013\Projects\FinancialCalculations\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+c:\users\arthur c. baroi\documents\visual studio 2013\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\FinancialCalculations.csprojResolveAssemblyReference.cache
+c:\users\arthur c. baroi\documents\visual studio 2013\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\FinancialCalculations.FormFinancialCalculations.resources
+c:\users\arthur c. baroi\documents\visual studio 2013\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\FinancialCalculations.Properties.Resources.resources
+c:\users\arthur c. baroi\documents\visual studio 2013\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\FinancialCalculations.csproj.GenerateResource.Cache
+c:\users\arthur c. baroi\documents\visual studio 2013\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+c:\users\arthur c. baroi\documents\visual studio 2013\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
